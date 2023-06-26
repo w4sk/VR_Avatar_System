@@ -9,6 +9,18 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/Assets/Avatars/*
+/Assets/Oculus/*
+/Assets/Photon/*
+/Assets/Resources/*
+/Assets/UniGLTF/*
+/Assets/VRM/*
+/Assets/VRM10/*
+/Assets/VRMShaders/*
+/Assets/XR/*
+/Assets/Plugins/*
+
+
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
